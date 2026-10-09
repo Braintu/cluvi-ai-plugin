@@ -1,0 +1,11 @@
+{
+  "name": "cluvi-ai",
+  "version": "1.0.0",
+  "description": "Run your restaurant's guest conversations, delivery orders, menu and reservations, and train the AI receptionist that answers your guests.",
+  "mcpServers": {
+    "cluvi": {
+      "httpUrl": "https://cluvi.ai/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

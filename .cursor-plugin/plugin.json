@@ -1,0 +1,22 @@
+{
+  "name": "cluvi-ai",
+  "displayName": "Cluvi AI",
+  "version": "1.0.0",
+  "description": "Run your restaurant's guest conversations, delivery orders, menu and reservations, and train the AI receptionist that answers your guests.",
+  "author": {
+    "name": "Braintu Inc.",
+    "email": "support@cluvi.ai"
+  },
+  "homepage": "https://cluvi.ai/mcp",
+  "repository": "https://github.com/Braintu/cluvi-ai-plugin",
+  "license": "MIT",
+  "keywords": [
+    "restaurants",
+    "whatsapp",
+    "delivery orders",
+    "reservations",
+    "ai receptionist",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
